@@ -1,0 +1,114 @@
+body {
+  overflow-x: hidden;
+  /* font-family: 'Poppins', sans-serif !important; */
+  /* font-family: 'Roboto', sans-serif !important; */
+  /* font-family: 'Source Sans Pro', sans-serif !important; */
+  /* font-family: 'Open Sans', sans-serif !important; */
+  /* font-family: 'Lato', sans-serif !important; */
+  /* font-family: 'Fira Sans', sans-serif !important; */
+  /* font-family: 'IBM Plex Sans', sans-serif !important; */
+  /* font-family: system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",sans-serif !important; */
+  font-family: 'Domine', serif;
+}
+
+
+body {
+  color: #a5a5a5;
+  /* font-family: Gill Sans, Verdana; */
+  font-size: 18px;
+  text-align: center;
+  /* font-family: 'Domine', serif; */
+  /* font-family: 'Roboto Slab', serif; */
+  /* font-family: 'Dela Gothic One', cursive; */
+  /* font-family: 'Yanone Kaffeesatz', sans-serif; */
+  font-family: 'Bitter', serif;
+  font-family: 'IBM Plex Sans', sans-serif;
+  font-family: 'Playfair Display', serif;
+}
+
+header {background: white;position: fixed;color: black;position: fixed;top: 0;width: 100%;z-index: 1;text-align: left;padding: 10px 40px;}
+
+h1 {
+  font-size: 3.5em;
+  text-align: center;
+  margin-top: 60px;
+  font-weight: 700;
+  color: #444;
+  margin-bottom: 20px;
+}
+
+h4 {font-style: italic;font-size: 1.5em;color: #000000;}
+
+a:hover {
+}
+
+.carousel{
+  margin-top: 40px;
+  margin-bottom: 240px;
+}
+.carousel-inner{
+  height: 550px;
+}
+.carousel-caption{
+  color: #000;
+  top: 50%;
+}
+
+.carousel-item img {
+  width: 95%;
+}
+
+.t {position: absolute;top: 150px;text-align: center;width: 100%;padding: 0 170px;}
+
+.t h3 {
+  color: #000;
+  margin-bottom: 15px;
+  padding: 0px 15px;
+  font-weight: 700;
+  font-size: 2em;
+}
+
+.t h4 {
+  color: #000;
+  margin-bottom: 15px;
+  padding: 0px 15px;
+  font-weight: 700;
+  font-size: 1.6em;
+  font-style: unset;
+}
+
+.t h5 {
+  color: #000;
+  margin-bottom: 15px;
+  padding: 0px 15px;
+  font-weight: 700;
+  font-size: 1.2em;
+  font-style: unset;
+}
+
+.t p {
+  font-size: 18px;
+  color: #2d2d2d;
+}
+
+.t img {
+  max-width: 45%;
+}
+
+.carousel-control-next svg, .carousel-control-prev svg {
+  color: #000;
+}
+
+.carousel-control-next:focus, .carousel-control-next:hover, .carousel-control-prev:focus, .carousel-control-prev:hover {
+    color: #fff;
+    text-decoration: none;
+    outline: 0;
+    opacity: .9;
+    background: #fff;
+    height: 50px;
+}
+
+.strike {
+    text-decoration: line-through;
+}
+
